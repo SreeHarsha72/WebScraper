@@ -1,0 +1,51 @@
+,movie_name,release_year,movie_length,imdb_rating,metascore,votes,US_gross(in millions),rank(in top 250)
+0,Oppenheimer,2023,180,8.7,88.0,192611,,23.0
+1,Mission: Impossible - Dead Reckoning Part One,2023,163,8.0,81.0,97413,,
+2,Guardians of the Galaxy Vol. 3,2023,150,8.1,64.0,232592,,
+3,Spider-Man: Across the Spider-Verse,2023,140,8.9,86.0,193560,,15.0
+4,Mission: Impossible - Fallout,2018,147,7.7,86.0,357039,220.16,
+5,Interstellar,2014,169,8.7,74.0,1949196,188.02,25.0
+6,John Wick: Chapter 4,2023,169,7.8,78.0,249625,,
+7,Puss in Boots: The Last Wish,2022,102,7.9,73.0,144036,168.46,
+8,The Dark Knight,2008,152,9.0,84.0,2749096,534.86,3.0
+9,Inception,2010,148,8.8,74.0,2439918,292.58,14.0
+10,Titanic,1997,194,7.9,75.0,1236623,659.33,
+11,Dunkirk,2017,106,7.8,94.0,694609,188.37,
+12,Top Gun: Maverick,2022,130,8.3,78.0,613928,718.73,127.0
+13,Dune,2021,155,8.0,74.0,697647,108.33,
+14,The Shawshank Redemption,1994,142,9.3,82.0,2773424,28.34,1.0
+15,The Batman,2022,176,7.8,72.0,714551,369.35,
+16,The Wolf of Wall Street,2013,180,8.2,75.0,1483767,116.9,133.0
+17,The Prestige,2006,130,8.5,66.0,1379292,53.09,43.0
+18,Raiders of the Lost Ark,1981,115,8.4,85.0,1005591,248.16,58.0
+19,The Godfather,1972,175,9.2,100.0,1930657,134.97,2.0
+20,Pulp Fiction,1994,154,8.9,95.0,2128471,107.93,8.0
+21,Pride & Prejudice,2005,129,7.8,82.0,311911,38.41,
+22,Everything Everywhere All at Once,2022,139,7.8,81.0,466059,72.86,
+23,Once Upon a Time in Hollywood,2019,161,7.6,83.0,788749,142.5,
+24,Spider-Man: Into the Spider-Verse,2018,117,8.4,87.0,613032,190.24,67.0
+25,Memento,2000,113,8.4,83.0,1274723,25.54,56.0
+26,Blade Runner 2049,2017,164,8.0,81.0,613823,92.05,
+27,Harry Potter and the Sorcerer's Stone,2001,152,7.6,65.0,816892,317.58,
+28,Jaws,1975,124,8.1,87.0,632451,260.0,205.0
+29,Indiana Jones and the Last Crusade,1989,127,8.2,65.0,785672,197.17,116.0
+30,The Dark Knight Rises,2012,164,8.4,78.0,1758652,448.14,70.0
+31,Jurassic Park,1993,127,8.2,68.0,1024852,402.45,145.0
+32,The Whale,2022,117,7.7,,164187,,
+33,Inglourious Basterds,2009,153,8.3,69.0,1507967,120.54,72.0
+34,Batman Begins,2005,140,8.2,70.0,1518577,206.85,129.0
+35,Little Women,2019,135,7.8,91.0,223407,108.1,
+36,Spider-Man: No Way Home,2021,148,8.2,71.0,816758,804.75,157.0
+37,The Departed,2006,151,8.5,85.0,1368246,132.38,41.0
+38,Almost Famous,2000,122,7.9,90.0,285468,32.53,
+39,Guardians of the Galaxy,2014,121,8.0,76.0,1231958,333.18,
+40,Heat,1995,170,8.3,76.0,684595,67.44,111.0
+41,Prisoners,2013,153,8.1,70.0,758523,61.0,167.0
+42,Watchmen,2009,162,7.6,,566227,107.51,
+43,No Country for Old Men,2007,122,8.2,92.0,1012089,74.28,149.0
+44,The Lord of the Rings: The Fellowship of the Ring,2001,178,8.8,92.0,1930426,315.54,9.0
+45,Fight Club,1999,139,8.8,67.0,2209267,37.03,12.0
+46,Avengers: Endgame,2019,181,8.4,78.0,1198257,858.37,80.0
+47,Gladiator,2000,155,8.5,67.0,1548739,187.71,37.0
+48,Django Unchained,2012,165,8.4,81.0,1617222,162.81,57.0
+49,Alien,1979,117,8.5,89.0,911248,78.9,53.0
