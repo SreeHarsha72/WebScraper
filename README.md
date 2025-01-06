@@ -1,3 +1,5 @@
-# WebScraper
+# Data Scraping
 
-This scraper crawls into imdb website and gets  the movie details and makes a csv file into local directory.
+This repo has the datasets that were created by scraping the data usig python scripts 
+1. Imdb website
+2. Spotify API
